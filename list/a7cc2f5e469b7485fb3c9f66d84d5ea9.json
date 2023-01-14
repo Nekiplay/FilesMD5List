@@ -1,6 +1,7 @@
 {
   "MD5": "a7cc2f5e469b7485fb3c9f66d84d5ea9",
   "Name": "ExLoader",
+  "Extension": ".exe",
   "Description": "Loader cheats",
   "Version": "2.7.12.0",
   "Game": "Counter-Strike: Global Offensive,Minecraft",
