@@ -3,7 +3,7 @@
   "Name": "NEU",
   "Extension": ".jar",
   "Description": "Show item recipes on Hypixel SkyBlock",
-  "Version": "-",
+  "Version": "2.1.0",
   "Game": "Minecraft",
   "Site": "https://github.com/Moulberry/NotEnoughUpdates/releases/",
   "Types": [
