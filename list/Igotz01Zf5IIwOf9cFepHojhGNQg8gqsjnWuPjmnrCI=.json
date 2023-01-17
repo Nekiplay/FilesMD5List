@@ -1,0 +1,20 @@
+{
+  "hash": {
+    "MD5": "963f148316e193b2ae68c6cbf5f7b09a",
+    "SHA256": "Igotz01Zf5IIwOf9cFepHojhGNQg8gqsjnWuPjmnrCI="
+  },
+  "Name": "kprocesshacker",
+  "Extension": ".sys",
+  "Description": "Library for Process Hacker",
+  "Version": "3.1.0.0",
+  "Game": "-",
+  "Site": "-",
+  "Types": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "f8f8cdec7d3d24e183025495408e21bf",
+      "SHA256": "7w71LHNuox3c5EsM5vcDRMwPxT1ILtrgJLTSXflqlKg="
+    }
+  ]
+}
