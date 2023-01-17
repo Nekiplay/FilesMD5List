@@ -1,0 +1,27 @@
+{
+  "hash": {
+    "MD5": "f8f8cdec7d3d24e183025495408e21bf",
+    "SHA256": "7w71LHNuox3c5EsM5vcDRMwPxT1ILtrgJLTSXflqlKg="
+  },
+  "Name": "Process Hacker",
+  "Extension": ".exe",
+  "Description": "Process monitor,Dll injector,ScreenShare tool",
+  "Version": "3.0.2836",
+  "Game": "-",
+  "Site": "-",
+  "Types": [
+    "Program",
+    "Tool",
+    "ScreenShare"
+  ],
+  "libs": [
+    {
+      "MD5": "aa6178545056dd5fee6a669f09985c48",
+      "SHA256": "TffLSEgAjod2w6CoF+5StUzG48EwGAZcELqe1hTB0Tw="
+    },
+    {
+      "MD5": "963f148316e193b2ae68c6cbf5f7b09a",
+      "SHA256": "Igotz01Zf5IIwOf9cFepHojhGNQg8gqsjnWuPjmnrCI="
+    }
+  ]
+}
