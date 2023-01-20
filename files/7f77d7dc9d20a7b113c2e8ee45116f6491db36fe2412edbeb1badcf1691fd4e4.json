@@ -1,0 +1,21 @@
+{
+  "Hash": {
+    "MD5": "c3a5b383d592da7c704424faf38435cf",
+    "SHA256": "3tNsvm1lM5hsnl/qQQZ3yliGaYVKSeryLj/lCypEeD0=",
+    "SHA3256": "7f77d7dc9d20a7b113c2e8ee45116f6491db36fe2412edbeb1badcf1691fd4e4"
+  },
+  "Types": [
+    "Cheat",
+    "Mod"
+  ],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "Hypixel Cry",
+  "OriginalName": "HypixelCry-1.0.jar",
+  "Extension": ".jar",
+  "Description": "Cheat mod for Hypixel SkyBlock",
+  "Version": "1.0",
+  "Game": "Minecraft",
+  "Site": ""
+}

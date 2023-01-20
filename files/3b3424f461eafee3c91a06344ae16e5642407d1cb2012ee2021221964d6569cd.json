@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "715a1fbee4665e99e859eda667fe8034",
+    "SHA256": "xcg7vBdBvm/0xJDAruNMFilFQj7Fd8ZGU4stIc4TGZ4=",
+    "SHA3256": "3b3424f461eafee3c91a06344ae16e5642407d1cb2012ee2021221964d6569cd"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "Newtonsoft Json",
+  "OriginalName": "Newtonsoft.Json.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for Json",
+  "Version": "13.0.2.27524",
+  "Game": "",
+  "Site": ""
+}
