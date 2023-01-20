@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "963f148316e193b2ae68c6cbf5f7b09a",
+    "SHA256": "Igotz01Zf5IIwOf9cFepHojhGNQg8gqsjnWuPjmnrCI=",
+    "SHA3256": "93e2e51fe0ff9f920b458936af937514ab5ed0cd837bdc0259d745e959abf92b"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "f8f8cdec7d3d24e183025495408e21bf",
+      "SHA256": "7w71LHNuox3c5EsM5vcDRMwPxT1ILtrgJLTSXflqlKg=",
+      "SHA3256": "496038d23f1092496ac8569b352f825fc63f53dfdf3cb4cdda810b43b88cf27c"
+    }
+  ],
+  "Name": "Kernel Process Hacker",
+  "OriginalName": "kprocesshacker.sys",
+  "Extension": ".sys",
+  "Description": "Driver for process hacker",
+  "Version": "3.1.0.0",
+  "Game": "",
+  "Site": ""
+}
