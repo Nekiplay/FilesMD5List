@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "a42cb203eb27e247e1d0ae24117f86e4",
+    "SHA256": "RN4ZIQS4Z9NACi3Cx+NEjMICjlJSVAYMlXKrzmuE2iA=",
+    "SHA3256": "689af5ef0090366cd576fdc9b637512ce4af78e0a884e6c6a0b11a9002ccf0e5"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [
+    {
+      "MD5": "c3d74a26d3ac858ca827546fb6a993cf",
+      "SHA256": "Ml3is5gInxNuI+YjzxZYsDxRqCGpJxBpt0zEGH00guA=",
+      "SHA3256": "850bdfef8a97eb0825be8f7846fd74017b1effa8e41058ce7fd9c1f30a4a9c25"
+    }
+  ],
+  "Used": [],
+  "Name": "Gameloop JsonConverter",
+  "OriginalName": "Gameloop.Vdf.JsonConverter.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for .vdf",
+  "Version": "0.2.1.0",
+  "Game": "",
+  "Site": ""
+}

@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "c3d74a26d3ac858ca827546fb6a993cf",
+    "SHA256": "Ml3is5gInxNuI+YjzxZYsDxRqCGpJxBpt0zEGH00guA=",
+    "SHA3256": "850bdfef8a97eb0825be8f7846fd74017b1effa8e41058ce7fd9c1f30a4a9c25"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "Gameloop",
+  "OriginalName": "Gameloop.Vdf.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for files .vdf",
+  "Version": "0.6.2.0",
+  "Game": "",
+  "Site": ""
+}
