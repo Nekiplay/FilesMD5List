@@ -1,0 +1,26 @@
+{
+  "Hash": {
+    "MD5": "e98f01f5d19bc58939205d64397a32ba",
+    "SHA256": "yYH+DeMlQD7YE4KWE5qEsv5ThTzNW7BJBf35WaeM260=",
+    "SHA3256": "d7f9a6b84445f3d94b72f3188d53e102654634440f9ef47042eb2eb8bfd12bb1"
+  },
+  "Types": [
+    "Cheat"
+  ],
+  "PornographyTypes": [],
+  "Libs": [
+    {
+      "MD5": "9970253c6d1b5aa3b5f5364809eaba57",
+      "SHA256": "RcBOeeDhXhXhVYBTBNMmtSnKEw3hyfqkV7VLooiHCgo=",
+      "SHA3256": "6c3d82eeb45d859324b5673b5177404cad23865863d116665d25c17e1f659cb0"
+    }
+  ],
+  "Used": [],
+  "Name": "Femboy",
+  "OriginalName": "Femboy_csgo.dll",
+  "Extension": ".dll",
+  "Description": "Movement cheat for CSGO",
+  "Version": "",
+  "Game": "CSGO",
+  "Site": ""
+}

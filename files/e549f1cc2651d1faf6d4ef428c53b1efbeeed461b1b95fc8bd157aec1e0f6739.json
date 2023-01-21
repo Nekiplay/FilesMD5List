@@ -1,0 +1,20 @@
+{
+  "Hash": {
+    "MD5": "8468169b3181ca16c936c4734459aead",
+    "SHA256": "BqA5CiqukhXqDuy6lGB/UI68HO7sSdO3Eb6I+pRlA1g=",
+    "SHA3256": "e549f1cc2651d1faf6d4ef428c53b1efbeeed461b1b95fc8bd157aec1e0f6739"
+  },
+  "Types": [
+    "Cheat"
+  ],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "Oscorp.Technology",
+  "OriginalName": "oscorp.tech.exe",
+  "Extension": ".exe",
+  "Description": "External Aimbot for CSGO",
+  "Version": "1.3",
+  "Game": "CSGO",
+  "Site": ""
+}

@@ -1,0 +1,20 @@
+{
+  "Hash": {
+    "MD5": "9970253c6d1b5aa3b5f5364809eaba57",
+    "SHA256": "RcBOeeDhXhXhVYBTBNMmtSnKEw3hyfqkV7VLooiHCgo=",
+    "SHA3256": "6c3d82eeb45d859324b5673b5177404cad23865863d116665d25c17e1f659cb0"
+  },
+  "Types": [
+    "Cheat"
+  ],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "Femboy",
+  "OriginalName": "Femboy_steam.dll",
+  "Extension": ".dll",
+  "Description": "Library for Femboy CSGO cheat",
+  "Version": "",
+  "Game": "CSGO",
+  "Site": ""
+}
