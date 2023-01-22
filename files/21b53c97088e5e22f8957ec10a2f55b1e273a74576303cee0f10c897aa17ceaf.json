@@ -4,7 +4,9 @@
     "SHA256": "bSAbOHE/pp/nvUCkG09VJymRSRvlYN2CnknafBYtXDA=",
     "SHA3256": "21b53c97088e5e22f8957ec10a2f55b1e273a74576303cee0f10c897aa17ceaf"
   },
-  "Types": [],
+  "Types": [
+    "Program"
+  ],
   "PornographyTypes": [],
   "Libs": [
     {
