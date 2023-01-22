@@ -1,0 +1,21 @@
+{
+  "Hash": {
+    "MD5": "ba47b769aa6ae858976587e618f7b651",
+    "SHA256": "GVvDCN4LvWfYX3Pu8b9w3lDd88eP4Ter3hu2mw4CFvs=",
+    "SHA3256": "287259518add721fab6c9ea894f268172a568ab12beb319e39c77d86a7d98475"
+  },
+  "Types": [
+    "Tool",
+    "Program"
+  ],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "WinBooster Trusted Installer Worker",
+  "OriginalName": "WinBoosterTIWorker.exe",
+  "Extension": ".exe",
+  "Description": "Removing from system folders",
+  "Version": "1.0.0.0",
+  "Game": "",
+  "Site": ""
+}

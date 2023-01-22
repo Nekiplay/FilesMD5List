@@ -1,0 +1,26 @@
+{
+  "Hash": {
+    "MD5": "0b418949e2d34b0448d3c5428fa8a733",
+    "SHA256": "zBvwEu6VJo8Mx1pDdz0j6zSnyfxMsD/F5zOwxjI50K8=",
+    "SHA3256": "ce07486a1487aa097aead71b9372e69deb30fd7a651b26f0b77ad4566cde2b91"
+  },
+  "Types": [
+    "Cheat"
+  ],
+  "PornographyTypes": [],
+  "Libs": [
+    {
+      "MD5": "7f5d3685ee043d73be4094a12689ee32",
+      "SHA256": "S/v7Kr+uxCgrJJ6Cvmca6nRD7DWBWfW9EC/AO/k97Zs=",
+      "SHA3256": "72ebeafcb92ebb83f2b9f330a03cd38aa06d4e3e8de80a2c3dc1556f9d72c119"
+    }
+  ],
+  "Used": [],
+  "Name": "Clarity.tk",
+  "OriginalName": "clarity_main.dll",
+  "Extension": ".dll",
+  "Description": "Cheat for CSGO",
+  "Version": "",
+  "Game": "",
+  "Site": ""
+}

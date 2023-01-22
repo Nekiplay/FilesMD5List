@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "7c84eafb9fe95b8384537cb3475515d0",
+    "SHA256": "qjno/JpmEQSfjtzEi6uf3JF1nQy3YkxZSUQtAocGXdg=",
+    "SHA3256": "6bfcff176fcad892755b4d44a88b5ad55fc2e51cba99cc5d431f441b982c7e08"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "MediaDevices",
+  "OriginalName": "MediaDevices.dll",
+  "Extension": ".dll",
+  "Description": "C# Library to work with Android files",
+  "Version": "1.9.1.0",
+  "Game": "",
+  "Site": ""
+}
