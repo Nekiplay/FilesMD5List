@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "43091b40a52d30552220299bf49f8c70",
+    "SHA256": "LiE+e4TBhN9HxlHrgk7V2vuTdnqCvLdUuv4GvMHDXOg=",
+    "SHA3256": "d8e00d6c93c3643f429567497ea2fd75f310ced0a56649ae2477079ef1c470a7"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "Process NET",
+  "OriginalName": "Process.NET.dll",
+  "Extension": ".dll",
+  "Description": "C# Library to work with process memory",
+  "Version": "1.0.0.0",
+  "Game": "",
+  "Site": ""
+}
