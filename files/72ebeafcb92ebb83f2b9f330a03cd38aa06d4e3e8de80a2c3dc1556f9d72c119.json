@@ -6,7 +6,13 @@
   },
   "Types": [],
   "PornographyTypes": [],
-  "Libs": [],
+  "Libs": [
+    {
+      "MD5": "0b418949e2d34b0448d3c5428fa8a733",
+      "SHA256": "zBvwEu6VJo8Mx1pDdz0j6zSnyfxMsD/F5zOwxjI50K8=",
+      "SHA3256": "ce07486a1487aa097aead71b9372e69deb30fd7a651b26f0b77ad4566cde2b91"
+    }
+  ],
   "Used": [],
   "Name": "Clarity.tk",
   "OriginalName": "clarity.tk_steam.dll",
