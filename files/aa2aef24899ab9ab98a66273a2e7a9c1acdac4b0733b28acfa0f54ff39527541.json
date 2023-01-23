@@ -1,0 +1,28 @@
+{
+  "Hash": {
+    "MD5": "c8e2f4128738b1eb51c75ba8ff9bae60",
+    "SHA256": "r1aerv8AED+smHY6ufWrFb0ZxKi20If/EzNI2fBow38=",
+    "SHA3256": "aa2aef24899ab9ab98a66273a2e7a9c1acdac4b0733b28acfa0f54ff39527541"
+  },
+  "Types": [
+    "Tool",
+    "Program",
+    "ScreenShare"
+  ],
+  "PornographyTypes": [],
+  "Libs": [
+    {
+      "MD5": "32eb75e896b43861eec06788e046bee1",
+      "SHA256": "K1e4vIq2QfzcYDYmKPxC7QQEVVCi3N/3yhjKfRP/o3A=",
+      "SHA3256": "3edff81a3fcf4930ad38fc3a784de2d51321a1e7c5dd8316a7718d2d61ab64fa"
+    }
+  ],
+  "Used": [],
+  "Name": "System Informer",
+  "OriginalName": "SystemInformer.exe",
+  "Extension": ".exe",
+  "Description": "Process Hacker,Process Monitor",
+  "Version": "3.0.10254.5727",
+  "Game": "",
+  "Site": ""
+}
