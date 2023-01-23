@@ -13,7 +13,13 @@
       "SHA3256": "6c92022de65d2cb0fbbf275d8feb88451726570bce8437f3a031ce2950746890"
     }
   ],
-  "Used": [],
+  "Used": [
+    {
+      "MD5": "93dc9f86cc0b02d0c89599099447ab86",
+      "SHA256": "LDe22BJfQRwrwjKk+cTcbBFzTyU4NlPk+noRSK3LM58=",
+      "SHA3256": "54b2caa5e45ea71360f5f435db0dc54733fb1eed442b909d2a8285e2498fd4fb"
+    }
+  ],
   "Name": "libGLESv2",
   "OriginalName": "libGLESv2.dll",
   "Extension": ".dll",
