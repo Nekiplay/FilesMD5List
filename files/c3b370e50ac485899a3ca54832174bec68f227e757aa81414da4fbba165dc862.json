@@ -1,0 +1,26 @@
+{
+  "Hash": {
+    "MD5": "06947f278c27be4d22840bd88f40b87c",
+    "SHA256": "gnQzBN3TZzXPcBizScUrTwv17aKoKsEBie0ohsVSh/E=",
+    "SHA3256": "c3b370e50ac485899a3ca54832174bec68f227e757aa81414da4fbba165dc862"
+  },
+  "Types": [
+    "Cheat"
+  ],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "a5e964dcce4db7dd6da074b5a3f12d6c",
+      "SHA256": "pbOMQOXiSTS5NMeikXXZBKzHNp2Lq72dV/41aX0oRWE=",
+      "SHA3256": "b736e7503bc1cc49762491ce2dde1d0dfa9d7ef36d408066810492821aeaa863"
+    }
+  ],
+  "Name": "Sakara",
+  "OriginalName": "Sakara.dll",
+  "Extension": ".dll",
+  "Description": "Cheat for CSGO",
+  "Version": "1.3.3.0",
+  "Game": "CSGO",
+  "Site": ""
+}
