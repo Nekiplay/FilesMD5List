@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "25af2e10c9ad201ca690197cdf87c4ef",
+    "SHA256": "urTUVbBFB8NylqnSjxggR+xLhok4LYOB76dcnz0o8DE=",
+    "SHA3256": "4985708b8173f092be25b69f23b766999311b21d4942fb14d565702a1790f9b6"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "377a21c1f88dddac9c863332d48e68c3",
+      "SHA256": "f7XKiHTq708JJsHXr/jdZft8N/Qm4yKKJkMZ8yvHDjs=",
+      "SHA3256": "74704fec1be4529ba04059bdf1df0307888946a000c4faa7edb4ae087312568d"
+    }
+  ],
+  "Name": "libEGL",
+  "OriginalName": "libEGL.dll",
+  "Extension": ".dll",
+  "Description": "libEGL is a library file that provides an interface for an application to access the Khronos EGL (Embedded-System Graphics Library) API. It is typically used on embedded systems and mobile devices to provide a common interface for accessing the graphics processing unit (GPU) and displaying graphics on the screen. The library is used to create and manage OpenGL and OpenVG contexts, as well as to configure and control the GPU's various display outputs. libEGL is a part of the Khronos Group's EGL API which is designed to provide a common interface for accessing the GPU on embedded and mobile devices. It is commonly used in conjunction with other libraries such as libGLESv2 and libGLESv3 which provide access to the OpenGL and OpenVG graphics APIs, respectively.",
+  "Version": "2.1.15381.0",
+  "Game": "",
+  "Site": ""
+}

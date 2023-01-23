@@ -1,0 +1,49 @@
+{
+  "Hash": {
+    "MD5": "377a21c1f88dddac9c863332d48e68c3",
+    "SHA256": "f7XKiHTq708JJsHXr/jdZft8N/Qm4yKKJkMZ8yvHDjs=",
+    "SHA3256": "74704fec1be4529ba04059bdf1df0307888946a000c4faa7edb4ae087312568d"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [
+    {
+      "MD5": "cd8a3be4d5871171fd0b107132d97be8",
+      "SHA256": "SmIGOjx+/PD6o4AKk/zSZyjvdT07g7yRnBLOv7WC8PA=",
+      "SHA3256": "e47a049ca23c6549be53d6b9d434207e3d55fbf60296e5e41206cb8903e99da6"
+    },
+    {
+      "MD5": "df0ba85a91651e8a3f078bbd41cb0300",
+      "SHA256": "Hl8JGqfShFVHZWRK8UIXurBCrwumamBKiczRDNtGX7E=",
+      "SHA3256": "5b02b4024894f6c9f275474d3a4fa682dbedfe18ea308350d3367c82cdb07f9c"
+    },
+    {
+      "MD5": "25af2e10c9ad201ca690197cdf87c4ef",
+      "SHA256": "urTUVbBFB8NylqnSjxggR+xLhok4LYOB76dcnz0o8DE=",
+      "SHA3256": "4985708b8173f092be25b69f23b766999311b21d4942fb14d565702a1790f9b6"
+    },
+    {
+      "MD5": "9095d53844aa57f28a0820b28e7888f3",
+      "SHA256": "ZP5TPqr9jms+Lrw/uPZzFj1EiHWONgdoPbC8IdPZ+8k=",
+      "SHA3256": "171274f9c37d0e2c2490cde5bd88fdaf679ff927267976c02051cbded0050e51"
+    },
+    {
+      "MD5": "6b9d318e15f2eb686904ea565911b8f9",
+      "SHA256": "VNeSD7HHy3gx48VsvxXUXaBe0Eedsfg3hrJacuRxf3g=",
+      "SHA3256": "9ca6698a1326ecca803c9656bd3c5bebc1b5b043c3a0697fb099621be085047e"
+    },
+    {
+      "MD5": "c9e612604bb7e9af96cc8a6df7f354d2",
+      "SHA256": "mWGy2u/afgzIrC4IrthC8FUfND2X4rVpVHOylHfQMPM=",
+      "SHA3256": "b1264f7b3f041c3645c331518c77415ed0c6267f1d2fc9c4d906578713425527"
+    }
+  ],
+  "Used": [],
+  "Name": "Discord",
+  "OriginalName": "Discord.exe",
+  "Extension": ".exe",
+  "Description": "Discord is a cross-platform communication app designed for gamers that provides text, voice, and video chat services",
+  "Version": "1.0.9010",
+  "Game": "",
+  "Site": ""
+}

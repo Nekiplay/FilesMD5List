@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "6b9d318e15f2eb686904ea565911b8f9",
+    "SHA256": "VNeSD7HHy3gx48VsvxXUXaBe0Eedsfg3hrJacuRxf3g=",
+    "SHA3256": "9ca6698a1326ecca803c9656bd3c5bebc1b5b043c3a0697fb099621be085047e"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "377a21c1f88dddac9c863332d48e68c3",
+      "SHA256": "f7XKiHTq708JJsHXr/jdZft8N/Qm4yKKJkMZ8yvHDjs=",
+      "SHA3256": "74704fec1be4529ba04059bdf1df0307888946a000c4faa7edb4ae087312568d"
+    }
+  ],
+  "Name": "vk_swiftshader",
+  "OriginalName": "vk_swiftshader.dll",
+  "Extension": ".dll",
+  "Description": "vk_swiftshader is a library file that provides a software implementation of the Vulkan API. The Vulkan API is a low-overhead, cross-platform 3D graphics and compute API. The library allows applications that use the Vulkan API to run on systems that do not have a dedicated GPU or that do not support the required graphics drivers.\r\n\r\nSwiftShader is a high-performance CPU-based implementation of the Vulkan, OpenGL ES, and Direct3D 9 graphics APIs. It can be used as a fallback renderer for systems that do not have a dedicated GPU or that do not support the required graphics drivers. By using this library an application can still run on these systems, but the performance may not be as good as it would be with a dedicated GPU.\r\n\r\nvk_swiftshader is an implementation of the Vulkan API that uses SwiftShader to provide its functionality. This library is commonly used on embedded systems, mobile devices, and other platforms where a dedicated GPU is not available.\r\n\r\nIt is important to note that this library is not intended to be used as a replacement for dedicated GPU in performance-critical applications. It is intended for use in cases where the lack of a dedicated GPU would otherwise prevent an application from running at all.",
+  "Version": "5.0.0.1",
+  "Game": "",
+  "Site": ""
+}
