@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "26da21460f648e0a70348c7dc74b80bb",
+    "SHA256": "avyJwahGgPXheE2Fte5QgXUeTjY48V5OHtOk+Mp7S08=",
+    "SHA3256": "19e25d851a56550370e6adcd79c2850d0b96bea21a9f83f3bd5a8a88622173fe"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.XtraCharts",
+  "OriginalName": "DevExpress.XtraCharts.v21.2.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

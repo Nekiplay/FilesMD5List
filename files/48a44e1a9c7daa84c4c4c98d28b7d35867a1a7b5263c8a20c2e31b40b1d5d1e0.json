@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "27cfba24baf309838b6302ed2d228e45",
+    "SHA256": "uM4T8FyVB3zHiaxXyLpLkJpeRVvEQZV5FbRDhAJJdnw=",
+    "SHA3256": "48a44e1a9c7daa84c4c4c98d28b7d35867a1a7b5263c8a20c2e31b40b1d5d1e0"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.DataAccess",
+  "OriginalName": "DevExpress.DataAccess.v21.2.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

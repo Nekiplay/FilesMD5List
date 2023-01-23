@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "1afdac449a1c7773054240575439f9c1",
+    "SHA256": "4RZx94g2BMIF3si1+1djsFCNGC19jWbH5ZRqqQwlHVU=",
+    "SHA3256": "54e88758fa26e132880a73b7c4497746cd60516415fa16f678ea93c83a315a3a"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.XtraGauges.Win",
+  "OriginalName": "DevExpress.XtraGauges.v21.2.Win.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

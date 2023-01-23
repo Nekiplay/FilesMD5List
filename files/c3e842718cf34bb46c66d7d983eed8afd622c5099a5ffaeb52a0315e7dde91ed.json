@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "e8c745734c2f2059a4b6910769e4a10f",
+    "SHA256": "2rHeK4Sm/r1u6itimJt/2zi5OjGfXbt/N9bjZuRken8=",
+    "SHA3256": "c3e842718cf34bb46c66d7d983eed8afd622c5099a5ffaeb52a0315e7dde91ed"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.XtraEditors",
+  "OriginalName": "DevExpress.XtraEditors.v21.2.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

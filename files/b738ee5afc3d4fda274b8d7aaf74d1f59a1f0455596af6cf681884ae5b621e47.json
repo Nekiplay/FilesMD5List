@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "2ad67c6a0f36347ddacdd22e5c573344",
+    "SHA256": "UlMKhgG0pTPGSd+kYz/quGH3gUkWilVuAAN5+BFRQ5U=",
+    "SHA3256": "b738ee5afc3d4fda274b8d7aaf74d1f59a1f0455596af6cf681884ae5b621e47"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.XtraRichEdit",
+  "OriginalName": "DevExpress.RichEdit.v21.2.Core.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

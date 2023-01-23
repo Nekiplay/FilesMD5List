@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "25155c9087706154b4eae9218f6f9ce2",
+    "SHA256": "vkfh+z1qRUxA8J1wfEok/DOsjOag+GD1cwtpwT8ahCg=",
+    "SHA3256": "a89523a2a4f8f815411c0994cd28516a9af579387236496a2c3237a94464ef19"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.Office",
+  "OriginalName": "DevExpress.Office.v21.2.Core.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

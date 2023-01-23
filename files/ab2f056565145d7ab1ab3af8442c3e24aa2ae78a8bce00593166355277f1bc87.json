@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "936676a0264fec64820d46726d249270",
+    "SHA256": "anlZpBrIYN2SThSlxuQ7cEcSYDtryMbHXlFX04vKU18=",
+    "SHA3256": "ab2f056565145d7ab1ab3af8442c3e24aa2ae78a8bce00593166355277f1bc87"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.Printing",
+  "OriginalName": "DevExpress.Printing.v21.2.Core.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "ab1fe33257d5f70e53ed8fe48c06dc3c",
+    "SHA256": "V5/dOJjUEe39ps4ORVwYq5wzGBWLwGZ8Iz7ftfj+cA4=",
+    "SHA3256": "3a770ef67e384d80bab1cdd5785efba91fd9b22b956beca65a1831048b9cdbf0"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.TreeMap",
+  "OriginalName": "DevExpress.TreeMap.v21.2.Core.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

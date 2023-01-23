@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "a243de22d12d56745e0810e3e4a0fdec",
+    "SHA256": "t63Y2Ac9qQsoS8oe3o8yOwqCvuH8Nyn/IzCV/W8H/rY=",
+    "SHA3256": "d5cb00a09c2a83a467ca4545c7f45160c56d64074ba9fbead84eeab6060baac5"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.Images",
+  "OriginalName": "DevExpress.Images.v21.2.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

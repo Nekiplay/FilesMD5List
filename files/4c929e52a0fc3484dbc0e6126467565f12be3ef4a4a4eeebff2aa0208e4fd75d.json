@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "0d8e4a6259aaf63fc412da25d30a44e7",
+    "SHA256": "1GtSzKbPRqpGFOA5O9tf2XloIeJ70j2eN3iiSF708AM=",
+    "SHA3256": "4c929e52a0fc3484dbc0e6126467565f12be3ef4a4a4eeebff2aa0208e4fd75d"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.Utils.UI",
+  "OriginalName": "DevExpress.Utils.v21.2.UI.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "f9bb3bd3cb83e93f026ee2572d808b58",
+    "SHA256": "OLIuVMi5XD8zm5KGsU8YKnEkcFOMwtxGEZxrR03BqLk=",
+    "SHA3256": "8768952b8057af1e359132286c3fae33eb94236037cd737e37592acecf1437bd"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.CodeParser",
+  "OriginalName": "DevExpress.CodeParser.v21.2.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

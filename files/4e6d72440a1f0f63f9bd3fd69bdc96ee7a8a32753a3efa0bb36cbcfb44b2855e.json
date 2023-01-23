@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "c4d86a59761202cbdc701ecaa77448be",
+    "SHA256": "1EvrtBVssP45vI8LMUasFmyHCDJX+D1zfBEIRPA0bzA=",
+    "SHA3256": "4e6d72440a1f0f63f9bd3fd69bdc96ee7a8a32753a3efa0bb36cbcfb44b2855e"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.XtraVerticalGrid",
+  "OriginalName": "DevExpress.XtraVerticalGrid.v21.2.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "fc73a68b544df012be18ab8c867c33d8",
+    "SHA256": "4LWp0iAPSbK/xxeSr8sxaR/YL9YORoJaeWEo/V3dbeU=",
+    "SHA3256": "0db9365d22ef76caaca7995a142a780fbda12f80c5f469dd2bf9316f33536871"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.Diagram",
+  "OriginalName": "DevExpress.Diagram.v21.2.Core.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

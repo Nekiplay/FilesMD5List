@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "343fc7f07bdf0a1f5f5c06f41895183a",
+    "SHA256": "kDMYKaGQTleCCr0tXy3IPWXlUyNaKTgvqIMDk1V0zYY=",
+    "SHA3256": "6d5b97c69ddde55d612510e79fd71d855504c9c407c4382da63b1c5e2f72db88"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.Pdf",
+  "OriginalName": "DevExpress.Pdf.v21.2.Core.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

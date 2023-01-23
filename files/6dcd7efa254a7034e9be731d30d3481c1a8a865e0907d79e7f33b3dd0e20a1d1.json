@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "e7d4ea00ef988ee89f08f68b593f75d3",
+    "SHA256": "xv8TLSaCPIPvwXb9vnkdy3GkTJ6ZAnIyIikCKtTpE4A=",
+    "SHA3256": "6dcd7efa254a7034e9be731d30d3481c1a8a865e0907d79e7f33b3dd0e20a1d1"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.XtraLayout",
+  "OriginalName": "DevExpress.XtraLayout.v21.2.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

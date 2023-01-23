@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "f26c65cab3a3893664a91412a9815901",
+    "SHA256": "7apjjCsyOieL3IhhbErDk21jTbYZ+1yE6YBIisMdkhE=",
+    "SHA3256": "9ddcd92d0def97496d0599463cf3a7a314bdcc8aab4bc81ee8680f0d52001e0e"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.Charts",
+  "OriginalName": "DevExpress.Charts.v21.2.Core.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}

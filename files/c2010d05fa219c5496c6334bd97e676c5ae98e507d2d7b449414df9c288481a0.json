@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "5d36c15ae451741f74db5378a532745a",
+    "SHA256": "iEjdIyIlnmquHHAAHyQBKSYtdArClWmKsEjMFd8AWIQ=",
+    "SHA3256": "c2010d05fa219c5496c6334bd97e676c5ae98e507d2d7b449414df9c288481a0"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "3f17943c13d11ff94679a2cc1e9bf2eb",
+      "SHA256": "T5gFGLcyRT5lNFafH89UJNDGZwMrPIg+5WwvtwK4LYk=",
+      "SHA3256": "87bfbc34cca53985b9455656f03c4c30fe1f394922426e59e5f37479ffcd08e9"
+    }
+  ],
+  "Name": "DevExpress.DataVisualization",
+  "OriginalName": "DevExpress.DataVisualization.v21.2.Core.dll",
+  "Extension": ".dll",
+  "Description": "C# Library for UI",
+  "Version": "21.2",
+  "Game": "",
+  "Site": ""
+}
