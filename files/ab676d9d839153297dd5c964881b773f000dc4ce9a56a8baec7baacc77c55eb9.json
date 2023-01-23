@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "58871cf606db440509b56a3f764e72e3",
+    "SHA256": "6h86ZvkyLSDaRULEJZXreJ5TKiJKAzjcSI6ZiuAOWeo=",
+    "SHA3256": "ab676d9d839153297dd5c964881b773f000dc4ce9a56a8baec7baacc77c55eb9"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "vulkan-1",
+  "OriginalName": "vulkan-1.dll",
+  "Extension": ".dll",
+  "Description": "Vulkan-1.dll is a dynamic link library file that contains code and data used by applications that use the Vulkan API. The Vulkan API is a low-overhead, cross-platform 3D graphics and compute API that provides applications with direct access to the graphics processing unit (GPU) and allows for better control over the GPU's various resources. This library provides a way for applications to access the functionality of the Vulkan API and interact with the GPU.\r\n\r\nThe library is typically included as part of the application installation and is loaded by the operating system at runtime. It is used to create and manage GPU resources, such as command buffers and pipelines, and to submit commands to the GPU for execution. The library also provides a way for applications to receive notifications of GPU events, such as completion of a command buffer, and to synchronize with the GPU to ensure that resources are used correctly.\r\n\r\nIt is important to note that in order to use the library, an application needs to have the Vulkan driver installed on the system. The driver is typically provided by the GPU vendor and must be compatible with the specific version of the library.\r\n\r\nVulkan-1.dll is a core file of the Vulkan API, it's necessary for the correct functioning of the application that use it, and it must be distributed along with the application.",
+  "Version": "1.0.1111.2222",
+  "Game": "",
+  "Site": ""
+}

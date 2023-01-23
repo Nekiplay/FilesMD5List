@@ -1,0 +1,53 @@
+{
+  "Hash": {
+    "MD5": "93dc9f86cc0b02d0c89599099447ab86",
+    "SHA256": "LDe22BJfQRwrwjKk+cTcbBFzTyU4NlPk+noRSK3LM58=",
+    "SHA3256": "54b2caa5e45ea71360f5f435db0dc54733fb1eed442b909d2a8285e2498fd4fb"
+  },
+  "Types": [
+    "Program",
+    "Loader",
+    "Game"
+  ],
+  "PornographyTypes": [],
+  "Libs": [
+    {
+      "MD5": "cb9807f6cf55ad799e920b7e0f97df99",
+      "SHA256": "VlO8ew4nAVYUZO82YC/2FxyWv/6W5MNZc1nNet3LqIo=",
+      "SHA3256": "f9511dd0e6940e2d40d3f8117e910dec83e24eb112fe42f17c76399ca4bf89ae"
+    },
+    {
+      "MD5": "68ea02ddbfdd0aa3a694789ee6d95bc2",
+      "SHA256": "DE4nVxsrfC9Q+2xtl0b6l4B5v7ODS9aawvNhI8QaDJk=",
+      "SHA3256": "a297ca1fa93ef6c856262056582359b0d19c8e46b1e6a04a9f448e020b18106a"
+    },
+    {
+      "MD5": "655672c205e37b079c34a4427118479b",
+      "SHA256": "SY+vtZ09GpH6JPlaWUEdrPP7NzQI6Opfkx4u1rJzLTY=",
+      "SHA3256": "6c92022de65d2cb0fbbf275d8feb88451726570bce8437f3a031ce2950746890"
+    },
+    {
+      "MD5": "eb2b911d33f5ba82109a0d5608c28334",
+      "SHA256": "JAS+iMeYtDSZq3Rm4rBL1YUQ8NP6WQSaum/7kytlyXc=",
+      "SHA3256": "c51620e39a3d77461da5db59af8f84a5b161a6691dd7ecdcbbd06081cbc7ef9b"
+    },
+    {
+      "MD5": "17bb7a2a7cd8ccd96ed19753cfc75bec",
+      "SHA256": "BwybuXDxOkfjJG++rdTS05Fic+GuPbIFnYBmkb/q9tg=",
+      "SHA3256": "7ef551c671de79d7f8aa9a66f83378548df8fd744fceecf0311a946c2be03ba5"
+    },
+    {
+      "MD5": "58871cf606db440509b56a3f764e72e3",
+      "SHA256": "6h86ZvkyLSDaRULEJZXreJ5TKiJKAzjcSI6ZiuAOWeo=",
+      "SHA3256": "ab676d9d839153297dd5c964881b773f000dc4ce9a56a8baec7baacc77c55eb9"
+    }
+  ],
+  "Used": [],
+  "Name": "Feather Launcher",
+  "OriginalName": "Feather Launcher.exe",
+  "Extension": ".exe",
+  "Description": "Minecraft launcher",
+  "Version": "1.4.8.0",
+  "Game": "Minecraft",
+  "Site": ""
+}
