@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "cd8a3be4d5871171fd0b107132d97be8",
+    "SHA256": "SmIGOjx+/PD6o4AKk/zSZyjvdT07g7yRnBLOv7WC8PA=",
+    "SHA3256": "e47a049ca23c6549be53d6b9d434207e3d55fbf60296e5e41206cb8903e99da6"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "377a21c1f88dddac9c863332d48e68c3",
+      "SHA256": "f7XKiHTq708JJsHXr/jdZft8N/Qm4yKKJkMZ8yvHDjs=",
+      "SHA3256": "74704fec1be4529ba04059bdf1df0307888946a000c4faa7edb4ae087312568d"
+    }
+  ],
+  "Name": "d3dcompiler_47",
+  "OriginalName": "d3dcompiler_47.dll",
+  "Extension": ".dll",
+  "Description": "d3dcompiler_47.dll is a dynamic link library file that contains code and data used by applications that use Direct3D, a component of Microsoft's DirectX technology. This library specifically contains the Direct3D HLSL (High-Level Shading Language) compiler for version 47.\r\n\r\nThis library is used to compile the HLSL code that is used to create shaders for Direct3D applications. The HLSL code is typically written by the application developer and contains instructions for the GPU on how to render the 3D graphics. The library converts the HLSL code into GPU-specific machine code that can be executed by the GPU.\r\n\r\nIt is important to note that d3dcompiler_47.dll is only necessary for applications that use DirectX 11.1 and Direct3D 11.1 or below. In later versions of Direct3D, the HLSL compiler is integrated into the Direct3D runtime and is not a separate library.\r\n\r\nIt is also important to note that the version of the d3dcompiler library must match the version of the Direct3D runtime that the application is using. In this case, the version is 47, so the application must be using Direct3D 11.1 or below.",
+  "Version": "10.0.19041.685",
+  "Game": "",
+  "Site": ""
+}
