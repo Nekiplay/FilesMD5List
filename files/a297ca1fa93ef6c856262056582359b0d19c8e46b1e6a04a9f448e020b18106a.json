@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "68ea02ddbfdd0aa3a694789ee6d95bc2",
+    "SHA256": "DE4nVxsrfC9Q+2xtl0b6l4B5v7ODS9aawvNhI8QaDJk=",
+    "SHA3256": "a297ca1fa93ef6c856262056582359b0d19c8e46b1e6a04a9f448e020b18106a"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "93dc9f86cc0b02d0c89599099447ab86",
+      "SHA256": "LDe22BJfQRwrwjKk+cTcbBFzTyU4NlPk+noRSK3LM58=",
+      "SHA3256": "54b2caa5e45ea71360f5f435db0dc54733fb1eed442b909d2a8285e2498fd4fb"
+    }
+  ],
+  "Name": "ffmpeg",
+  "OriginalName": "ffmpeg.dll",
+  "Extension": ".dll",
+  "Description": "Encoding and decoding audio and video",
+  "Version": "",
+  "Game": "",
+  "Site": ""
+}

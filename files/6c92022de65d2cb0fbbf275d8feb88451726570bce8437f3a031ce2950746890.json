@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "655672c205e37b079c34a4427118479b",
+    "SHA256": "SY+vtZ09GpH6JPlaWUEdrPP7NzQI6Opfkx4u1rJzLTY=",
+    "SHA3256": "6c92022de65d2cb0fbbf275d8feb88451726570bce8437f3a031ce2950746890"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "libEGL",
+  "OriginalName": "libEGL.dll",
+  "Extension": ".dll",
+  "Description": "OpenGL and OpenVG  GUI Library",
+  "Version": "2.1.18844.0",
+  "Game": "",
+  "Site": ""
+}

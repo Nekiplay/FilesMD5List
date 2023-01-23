@@ -1,0 +1,37 @@
+{
+  "Hash": {
+    "MD5": "06f659e92a757aec084403ec483e3d55",
+    "SHA256": "mAU8SNaP3L/OiQXHAwXyrWnMJ3VpEQbTIaUuCbxk+YM=",
+    "SHA3256": "66ca78d3656db6238d187ab0241ec0ded93cb2f930f815468ed5ab70f611c1d7"
+  },
+  "Types": [
+    "Tool",
+    "Program"
+  ],
+  "PornographyTypes": [],
+  "Libs": [
+    {
+      "MD5": "88477392128d8d6a1b310fedd8da6eea",
+      "SHA256": "DaeAO91y3o9jUzYFfT1nK2RdTalj5cYVRKTFougon9g=",
+      "SHA3256": "d6641120a9896f84bb62cb3b1e061a3609d7cec4ca64f1f74beddbc23a06a9cc"
+    },
+    {
+      "MD5": "a6ad50c212af59dd55540c0f2d0aa726",
+      "SHA256": "/g1a6NQsYi/L/1G6D18zoeRkE/mJk+fSFve0Y4h/OZw=",
+      "SHA3256": "09e022b0451ae0183c432f49894bc17ffa2555c68a23b098eb98e549563dab60"
+    },
+    {
+      "MD5": "f0a84546ec2e90432b4640602b955dc0",
+      "SHA256": "4Dbt4WjfKf5kFRne449iBI9Zkq3rOq/GX9NT21IoAyY=",
+      "SHA3256": "c56a067679657787607ec12399eea4b48a14a7d3a9f1c2d99f2dfa8041b976ba"
+    }
+  ],
+  "Used": [],
+  "Name": "uTorrent",
+  "OriginalName": "uTorrent.exe",
+  "Extension": ".exe",
+  "Description": "Downloading files via Torrent",
+  "Version": "3.6.0.46590",
+  "Game": "",
+  "Site": "https://www.utorrent.com/intl"
+}

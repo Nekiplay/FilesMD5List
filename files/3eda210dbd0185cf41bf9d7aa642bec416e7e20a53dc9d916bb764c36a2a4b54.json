@@ -1,0 +1,23 @@
+{
+  "Hash": {
+    "MD5": "ec801a7d4b72a288ec6c207bb9ff0131",
+    "SHA256": "tl9AYY9YQwPKC8+bX4jCM8xCN2mcDEv0C6j6y+gZWkY=",
+    "SHA3256": "3eda210dbd0185cf41bf9d7aa642bec416e7e20a53dc9d916bb764c36a2a4b54"
+  },
+  "Types": [
+    "Tool",
+    "Program",
+    "Loader",
+    "Injector"
+  ],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "Extreme Injector",
+  "OriginalName": "Extreme Injector v3.exe",
+  "Extension": ".exe",
+  "Description": "DLL Injector",
+  "Version": "3.7.3.0",
+  "Game": "",
+  "Site": "https://github.com/master131/ExtremeInjector"
+}
