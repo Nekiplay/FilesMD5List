@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "f29462949feda52a48b115472719f162",
+    "SHA256": "zf8TgaK/JLWcUIM5PQ/Ek5PZ74tBgKZulmsD05WCJKM=",
+    "SHA3256": "37613be9af440ca0d8bc03a9407a588348a24df3efc29c58c431bcbdecfaa987"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "apphelp",
+  "OriginalName": "apphelp.dll",
+  "Extension": ".dll",
+  "Description": "Application Compatibility Client Library",
+  "Version": "10.0.22621.963",
+  "Game": "",
+  "Site": ""
+}

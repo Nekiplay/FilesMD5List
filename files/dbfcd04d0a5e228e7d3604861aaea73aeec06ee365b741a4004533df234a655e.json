@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "295837449462785c66584d69d4f31d1e",
+    "SHA256": "VW0Ss3nvKlRYwqHj0aHLuQJeOedU0rB/V7spn7ZSAkY=",
+    "SHA3256": "dbfcd04d0a5e228e7d3604861aaea73aeec06ee365b741a4004533df234a655e"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "Matchmaking",
+  "OriginalName": "matchmaking.dll",
+  "Extension": ".dll",
+  "Description": "CSGO Library",
+  "Version": "",
+  "Game": "CSGO",
+  "Site": ""
+}

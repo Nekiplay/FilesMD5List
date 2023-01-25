@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "77b6342da4fe2a537ef900fb18c7b8cd",
+    "SHA256": "trxEGSbOQM4cMLoBWhubhQSyL9FAYxcAi/xvJXDGMSk=",
+    "SHA3256": "cf889a10707d2be6e2336f29bcc9d8ae3b9ecd9425a5c440e1adcbc37762728c"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "Launcher",
+  "OriginalName": "launcher.dll",
+  "Extension": ".dll",
+  "Description": "CSGO Library",
+  "Version": "",
+  "Game": "CSGO",
+  "Site": ""
+}

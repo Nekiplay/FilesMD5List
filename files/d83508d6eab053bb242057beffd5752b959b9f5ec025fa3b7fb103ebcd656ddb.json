@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "1cbe6872160fbadd6ac3f66a04cb6cc1",
+    "SHA256": "POICXlrWf5585m46ZKLpQm4bfXW2k0sDsekq21tOUZw=",
+    "SHA3256": "d83508d6eab053bb242057beffd5752b959b9f5ec025fa3b7fb103ebcd656ddb"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "nvldumd.dll",
+  "OriginalName": "nvldumd.dll",
+  "Extension": ".dll",
+  "Description": "NVIDIA Driver Loader",
+  "Version": "23.21.13.9135",
+  "Game": "",
+  "Site": ""
+}

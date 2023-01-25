@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "733b4083196e596498e947190db5341b",
+    "SHA256": "ZTyfhBvrYtdZj2UPZwct5uHBSRnwiasFQ/d1SSqHChU=",
+    "SHA3256": "c55bbbefaf3fe9af5d1304789c7b4756a46d4ee397f44a05192124bb05734b17"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "hid",
+  "OriginalName": "hid.dll",
+  "Extension": ".dll",
+  "Description": "Hid User Library",
+  "Version": "10.0.22621.1",
+  "Game": "",
+  "Site": ""
+}

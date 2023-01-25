@@ -1,0 +1,11 @@
+{
+  "OriginalFileName": "crypt32.dll",
+  "FileName": "cryp32",
+  "Hash": [
+    {
+      "MD5": "f2fe96d44435510df31d105356bbbc5d",
+      "SHA256": "NYIPdviDRSSnK7NKhzzh0IuQfUAkElo/ylLBqMZubio=",
+      "SHA3256": "6c7da7ec973299f10f7749387ee72c348217a141edc3ffe333d982dac0f7b5d3"
+    }
+  ]
+}

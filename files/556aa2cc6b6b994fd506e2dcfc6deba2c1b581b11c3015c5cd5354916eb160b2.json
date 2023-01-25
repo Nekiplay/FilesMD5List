@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "7a19daf9a838df172648356342060a18",
+    "SHA256": "0+XlTiUe5CVqy4H6MWJy33+A8OrKa8QuuzqO4dltTIg=",
+    "SHA3256": "556aa2cc6b6b994fd506e2dcfc6deba2c1b581b11c3015c5cd5354916eb160b2"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "AudioSes",
+  "OriginalName": "AudioSes.dll",
+  "Extension": ".dll",
+  "Description": "Audio Session",
+  "Version": "10.0.22621.900",
+  "Game": "",
+  "Site": ""
+}

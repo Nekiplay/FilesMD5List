@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "76dd8687ce84952c0dfcabda69d0b6c6",
+    "SHA256": "XR+3hd4OEQd2inrwbNE0mv1whbH9jWWOc05qoc+NR2M=",
+    "SHA3256": "23792fc7d7e2a56d2362d42357f3d000b3ac38ff6e4514a40709e4a6039205ea"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "ntdll",
+  "OriginalName": "ntdll.dll",
+  "Extension": ".dll",
+  "Description": "NT Layder DLL",
+  "Version": "10.0.22621.1105",
+  "Game": "",
+  "Site": ""
+}

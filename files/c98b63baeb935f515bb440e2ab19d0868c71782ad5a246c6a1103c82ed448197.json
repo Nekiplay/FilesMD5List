@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "9754c91ae846c48fce1238c91416c558",
+    "SHA256": "+IQg3fMUNSqz/1VZBj1Bw/76zev77xfvtrNCaTQExJA=",
+    "SHA3256": "c98b63baeb935f515bb440e2ab19d0868c71782ad5a246c6a1103c82ed448197"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "NapiNSP",
+  "OriginalName": "NapiNSP.dll",
+  "Extension": ".dll",
+  "Description": "E-mail Naming Shim Provider",
+  "Version": "10.0.22621.1",
+  "Game": "",
+  "Site": ""
+}

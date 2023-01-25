@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "6b051c25fcb5c976c99e4e942b342fbd",
+    "SHA256": "Xr2uwKAXR4braHo1CHjk7tHat1IGKp/f1v9Fgtb94FI=",
+    "SHA3256": "2df71e2ec4b86a973149caa37428524e022b037037a3ef7b79288d59609b23d2"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "5209b5be8af5b81f0ca8d2fd3dba395e",
+      "SHA256": "OG3AT2rguM/GHndipjEBl9JV7zfj1jpFkP7IJJ40Mvc=",
+      "SHA3256": "b21fcb9a5fb38bd8bfe009ab104634ba158b2d8b84ca7e04e91c5395e33efa5f"
+    }
+  ],
+  "Name": "datacache",
+  "OriginalName": "datacache.dll",
+  "Extension": ".dll",
+  "Description": "CSGO Library",
+  "Version": "",
+  "Game": "CSGO",
+  "Site": ""
+}

@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "79ba68020c3259a09fd116df03901fa5",
+    "SHA256": "LuykqnZK0IrwFeFik2WU9ZBxrLRfARwqRGAI7aVQNc8=",
+    "SHA3256": "dcfc37d0f5da59e56d64c93ba8e7062e5ef7dcaa9ade467a9cf41c6cf9086014"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "midimap",
+  "OriginalName": "midimap.dll",
+  "Extension": ".dll",
+  "Description": "Microsoft MIDI Mapper",
+  "Version": "",
+  "Game": "",
+  "Site": ""
+}

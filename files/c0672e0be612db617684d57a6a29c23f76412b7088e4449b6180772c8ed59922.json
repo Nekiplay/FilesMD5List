@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "b797b119c9071dc77f9f3725acb0246c",
+    "SHA256": "A8m+7xY+qctcUGIdbmSHvwg81cEzERQunoG5YI/iZVA=",
+    "SHA3256": "c0672e0be612db617684d57a6a29c23f76412b7088e4449b6180772c8ed59922"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "imemanager",
+  "OriginalName": "imemanager.dll",
+  "Extension": ".dll",
+  "Description": "CSGO Library",
+  "Version": "",
+  "Game": "CSGO",
+  "Site": ""
+}

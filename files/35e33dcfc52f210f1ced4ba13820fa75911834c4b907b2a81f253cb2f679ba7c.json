@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "2e2f34643a1f9721a9a28bd1f665df79",
+    "SHA256": "w8RBcwQbdwwxOG0DCS4yzdBMC4x29rLs668CJoJ1TRk=",
+    "SHA3256": "35e33dcfc52f210f1ced4ba13820fa75911834c4b907b2a81f253cb2f679ba7c"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "5209b5be8af5b81f0ca8d2fd3dba395e",
+      "SHA256": "OG3AT2rguM/GHndipjEBl9JV7zfj1jpFkP7IJJ40Mvc=",
+      "SHA3256": "b21fcb9a5fb38bd8bfe009ab104634ba158b2d8b84ca7e04e91c5395e33efa5f"
+    }
+  ],
+  "Name": "client",
+  "OriginalName": "client.dll",
+  "Extension": ".dll",
+  "Description": "Library for CSGO",
+  "Version": "",
+  "Game": "CSGO",
+  "Site": ""
+}

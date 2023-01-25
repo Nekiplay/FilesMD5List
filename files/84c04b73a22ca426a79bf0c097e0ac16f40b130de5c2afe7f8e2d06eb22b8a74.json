@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "a72b5f79f59288b0a76fe149bac6e68c",
+    "SHA256": "LjdE3yp/06xaaiZx2KRiTYa2zJk0ce/bxsR1RuzRGL0=",
+    "SHA3256": "84c04b73a22ca426a79bf0c097e0ac16f40b130de5c2afe7f8e2d06eb22b8a74"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "InputHost",
+  "OriginalName": "InputHost.dll",
+  "Extension": ".dll",
+  "Description": "Windows Library InputHost",
+  "Version": "10.0.22621.608",
+  "Game": "",
+  "Site": ""
+}

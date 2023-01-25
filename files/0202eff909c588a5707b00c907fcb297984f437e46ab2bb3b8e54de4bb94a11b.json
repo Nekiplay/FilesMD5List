@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "a78abac183cd1297fab14c4f3383123f",
+    "SHA256": "GSusJOfy8W5dJnxLcSh3qWUy6ZkURpaH8IinyffSu/4=",
+    "SHA3256": "0202eff909c588a5707b00c907fcb297984f437e46ab2bb3b8e54de4bb94a11b"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "AcGenral",
+  "OriginalName": "AcGenral.dll",
+  "Extension": ".dll",
+  "Description": "Windows Complatibility DLL",
+  "Version": "10.0.22621.608",
+  "Game": "",
+  "Site": ""
+}

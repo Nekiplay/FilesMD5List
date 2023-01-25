@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "5366e2fd42aac3ff940e86cb1a9c68d2",
+    "SHA256": "fl+nUIG05oJuOp07Wb2BDyzeO0cHC4m7VR79lUOfwV0=",
+    "SHA3256": "a65529cc9743598e13a8c36badd41a2eb88a9c32e0935cbeca2487eec3fc80eb"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "Localize",
+  "OriginalName": "localize.dll",
+  "Extension": ".dll",
+  "Description": "CSGO Library",
+  "Version": "",
+  "Game": "",
+  "Site": ""
+}

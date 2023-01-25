@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "ddf18c73f7aa0937d8b7c232a9b078af",
+    "SHA256": "o6Z0wDCnGHvOb6rHSUgb2BuwAW59BPQ2OE+2DQLFHiY=",
+    "SHA3256": "91da79db307634b960c81cc478ad728419e5bba0c14b952910d1dcce3cad2c63"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "InputSystem",
+  "OriginalName": "inputsystem.dll",
+  "Extension": ".dll",
+  "Description": "CSGO Library",
+  "Version": "",
+  "Game": "CSGO",
+  "Site": ""
+}

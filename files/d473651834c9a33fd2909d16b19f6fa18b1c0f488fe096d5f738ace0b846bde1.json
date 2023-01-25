@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "c35b09cb347c0d476143cabd142a27a3",
+    "SHA256": "b5a9ylQPUva7fsxL9Q+fZr1UzaBSYxpZSrphOC2LmBc=",
+    "SHA3256": "d473651834c9a33fd2909d16b19f6fa18b1c0f488fe096d5f738ace0b846bde1"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "cryptnet",
+  "OriginalName": "cryptnet.dll",
+  "Extension": ".dll",
+  "Description": "Crypto Network Related API",
+  "Version": "10.0.22621.1",
+  "Game": "",
+  "Site": ""
+}

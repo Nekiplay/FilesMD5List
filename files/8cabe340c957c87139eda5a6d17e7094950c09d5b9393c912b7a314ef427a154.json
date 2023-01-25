@@ -1,0 +1,18 @@
+{
+  "Hash": {
+    "MD5": "c638b76d3d38ee58fa287c68585f3e4f",
+    "SHA256": "gCY8F5UT04s5cuMBHit3bCUaMyBaOwd2trmM4gLgko8=",
+    "SHA3256": "8cabe340c957c87139eda5a6d17e7094950c09d5b9393c912b7a314ef427a154"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [],
+  "Name": "nv3dum",
+  "OriginalName": "nvd3dum.dll",
+  "Extension": ".dll",
+  "Description": "NVIDIA WDDM D3D Driver",
+  "Version": "23.21.13.9135",
+  "Game": "",
+  "Site": ""
+}

@@ -1,0 +1,24 @@
+{
+  "Hash": {
+    "MD5": "f2fe96d44435510df31d105356bbbc5d",
+    "SHA256": "NYIPdviDRSSnK7NKhzzh0IuQfUAkElo/ylLBqMZubio=",
+    "SHA3256": "6c7da7ec973299f10f7749387ee72c348217a141edc3ffe333d982dac0f7b5d3"
+  },
+  "Types": [],
+  "PornographyTypes": [],
+  "Libs": [],
+  "Used": [
+    {
+      "MD5": "5209b5be8af5b81f0ca8d2fd3dba395e",
+      "SHA256": "OG3AT2rguM/GHndipjEBl9JV7zfj1jpFkP7IJJ40Mvc=",
+      "SHA3256": "b21fcb9a5fb38bd8bfe009ab104634ba158b2d8b84ca7e04e91c5395e33efa5f"
+    }
+  ],
+  "Name": "cryp32",
+  "OriginalName": "crypt32.dll.mui",
+  "Extension": ".mui",
+  "Description": "API32 Cryptography",
+  "Version": "",
+  "Game": "",
+  "Site": ""
+}
